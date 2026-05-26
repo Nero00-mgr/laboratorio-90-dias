@@ -16,7 +16,6 @@ suma = prim_numero + seg_numero
 resta = prim_numero - seg_numero
 multiplicacion = prim_numero * seg_numero
 division = prim_numero / seg_numero
-
 print("Resultados: ")
 print("========================")
 print("Suma: ", suma)
